@@ -1,4 +1,4 @@
-My Coding Projects Collection 🚀
+My Coding Projects Collection 
 
 Hey there! Welcome to my project repository. I put this collection together to document my coding journey and keep track of the projects I've been building to level up my skills.
 
